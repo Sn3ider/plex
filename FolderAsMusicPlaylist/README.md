@@ -1,9 +1,9 @@
-# CREATE AND MAINTAIN PLEX MUSIC PLAYLIST FROM FOLDERS**
+# CREATE AND MAINTAIN PLEX MUSIC PLAYLIST FROM FOLDERS
 
 ## Thanks to:
 Big thanks to PyCoding-A for his work: [GitHub Project](https://github.com/PyCoding-A/plex.audio_folder_to_playlist/blob/main/plex_folder_to_playlist.py)
 
-## What can this script do?**
+## What can this script do?
 
 - **Create** Music Playlist from folders.
 - **Check** if song is already in playlist or not.
