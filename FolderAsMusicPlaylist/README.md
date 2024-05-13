@@ -12,7 +12,7 @@ Big thanks to **PyCoding-A** for his work: [GitHub Project](https://github.com/P
 
 ## What do you need to amend to use?
 - plex_base_url => Add your plex URL
-- plex_token => Get your own plex token, follow the plex. You can use the following article: [Plex Support Article](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/)
+- plex_token => Get your own plex token. You can use the following article: [Plex Support Article](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/)
 - plex_root => Root folder of your environment. Needed to be defined if Plex and the script running environment are using different locations
 - plex_playlist_location => The full path how Plex can connect to the playlist folder location
 - folder_location => The full path how the script running environment connect to the playlist folder location
