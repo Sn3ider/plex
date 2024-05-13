@@ -1,7 +1,7 @@
 # CREATE AND MAINTAIN PLEX MUSIC PLAYLIST FROM FOLDERS
 
 ## Thanks to:
-Big thanks to PyCoding-A for his work: [GitHub Project](https://github.com/PyCoding-A/plex.audio_folder_to_playlist/blob/main/plex_folder_to_playlist.py)
+Big thanks to **PyCoding-A** for his work: [GitHub Project](https://github.com/PyCoding-A/plex.audio_folder_to_playlist/blob/main/plex_folder_to_playlist.py)
 
 ## What can this script do?
 
