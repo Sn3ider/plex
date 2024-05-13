@@ -20,6 +20,7 @@ Big thanks to **PyCoding-A** for his work: [GitHub Project](https://github.com/P
 ## Synology Scheduled Task
 - The script can be setup as a Scheduled Task in Synology.
 - Use the following articles to run a custom python script on your NAS:
+
 [Synology Python Scheduled Script](https://synoguide.com/2023/01/21/schedule-python-scripts-on-your-synology/)
 
 [Synology Python Installation](https://synoguide.com/2023/01/21/install-and-use-python-3-9-in-your-synology/)
